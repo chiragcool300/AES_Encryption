@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46488046440",
+    "firebase_url": "https://myencryptionapp-d67db.firebaseio.com",
+    "project_id": "myencryptionapp-d67db",
+    "storage_bucket": "myencryptionapp-d67db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46488046440:android:270e4422b02e253e1924dd",
+        "android_client_info": {
+          "package_name": "com.example.encryptionchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46488046440-aucbd42p3egb933nkbnhnonlva49jl96.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.encryptionchatapp",
+            "certificate_hash": "8bd517fc16813e809cd5d71ef44fa735f7a82e20"
+          }
+        },
+        {
+          "client_id": "46488046440-lkmvu6e2qdrm4i8b0tmpllbd6vq3cjsq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyRIZWA6fccTR3J2SaMm8AXLDa4RFe4SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46488046440-lkmvu6e2qdrm4i8b0tmpllbd6vq3cjsq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
